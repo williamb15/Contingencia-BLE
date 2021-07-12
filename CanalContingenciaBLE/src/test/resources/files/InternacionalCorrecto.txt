@@ -1,0 +1,6 @@
+10.01|TR98391325|Sara Herrera|Diag 923 32|Colombia|Medellin|A|COLOCOB0XXXX|A|ZYABPAP0XXX|OUR|inc18666482 1|inc18666482 1 our|juaceved@bancolombia.com.co
+20.01|293813033923|Andrea Giraldo|Diag 923 33|Colombia|Medellin|A|COLOCOB0XXXX|A|ZYABPAP0XXX|SHA|inc18666482 2|inc18666482 2 sha|juaceved@bancolombia.com.co
+25.01|32433354353|Martin|Diag 923 34|Colombia|Medellin|A|COLOCOB0XXXX|A|ZYABPAP0XXX|OUR|inc18666482 3|inc18666482 3 our|juaceved@bancolombia.com.co
+10.01|TR98391325|Sara Herrera|Diag 923 32|Colombia|Medellin|A|COLOPAPAXXX|A|COLOCOBMMD1|OUR|chrome viernes 13|1 our viernes 13|testqasve@gmail.com
+5.01|2341390348|Andrea Giraldo|Diag 923 33|Colombia|Medellin|A|COLOPAPAXXX|A|COLOCOBMMD1|SHA|chrome viernes 13|2 sha viernes 13|testqasve@gmail.com
+15.01|32433354353|Martin|Diag 923 34|Colombia|Medellin|A|COLOCOBMMD1|A|COLOPAPAXXX|OUR|chrome viernes 13|3 our viernes 13|testqasve@gmail.com

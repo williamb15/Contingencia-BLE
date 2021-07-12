@@ -1,0 +1,4 @@
+;04100000018;13;4.15;32;SoloAchBancoNacionalPanama1DV;;04100000018;13;4.15;32;SoloAchBancoNacionalPanama1DV;
+;04100000018;13;4.15;32;SoloAchBancoNac;04100000018;13;4.15;32;SoloAchBancoNacionalPanama1DV;;04100000018;13;4.15;32;SoloAchBancoNacionalPanama1DV;
+;04100000018;13;4.15;32;SoloAchBancoNacionalPanama1DV;;04100000018;13;4.15;32;SoloAchBancoNacionalPanama1DV;
+;04100000018;13;4.15;32;SoloAchBancoNacionalPanama1DV;ionalPanama1DV;;04100000018;13;4.15;32;SoloAchBancoNacionalPanama1DV;

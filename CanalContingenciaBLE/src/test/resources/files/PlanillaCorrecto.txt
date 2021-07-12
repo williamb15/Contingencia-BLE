@@ -1,0 +1,3 @@
+100000034;12.05;ExtraccionLotesDet;CARLOS SANJUR TORRES;correoLoteDetLoteDet_2@pruebalote.com
+100000117;18.05;ExtraccionLotesDet;ENRIQUE VEGA SOLIS;correoLoteDet_8@pruebalote.com
+100000059;15.05;ExtraccionLotesDet;ESILDA LEONIDAS SANTANA RUIZ;correoLoteDet_5@pruebalote.com

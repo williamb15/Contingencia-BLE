@@ -1,0 +1,41 @@
+group 'co.com.banistmo.certification.contingencia'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+apply plugin: 'java'
+apply plugin: 'net.serenity-bdd.aggregator'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+compileJava.options.encoding = 'UTF-8'
+compileTestJava.options.encoding = "UTF-8"
+repositories {
+    mavenLocal()
+    jcenter()
+}
+buildscript {
+    repositories {
+        mavenLocal()
+        jcenter()
+
+        dependencies {
+            classpath("net.serenity-bdd:serenity-gradle-plugin:2.0.82")
+        }
+    }
+}
+dependencies {
+    implementation('net.serenity-bdd:serenity-core:2.0.82')
+    implementation('net.serenity-bdd:serenity-junit:2.0.82')
+    implementation('net.serenity-bdd:serenity-screenplay:2.0.82')
+    implementation('net.serenity-bdd:serenity-screenplay-webdriver:2.0.82')
+    implementation 'junit:junit:4.12'
+    implementation 'com.oracle:ojdbc6:12.1.0.1-atlassian-hosted'
+    implementation 'log4j:log4j:1.2.17'
+    testImplementation('junit:junit:4.12')
+    testImplementation('net.serenity-bdd:serenity-cucumber:1.9.45')
+    testImplementation('org.assertj:assertj-core:3.11.1')
+    testImplementation('org.slf4j:slf4j-simple:1.7.25')
+}
+gradle.startParameter.continueOnFailure = true
